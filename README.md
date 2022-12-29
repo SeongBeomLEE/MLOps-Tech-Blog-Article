@@ -12,7 +12,7 @@
 - [2021, CLOps: 넌 모델링만해, 난 서빙할테니](https://deview.kr/2021/sessions/451)
 - [2021, 언어 모델 학습과 사용 쉽게 하세요! : 효율적이고 확장성 있는 사내 라이브러리 개발기](https://deview.kr/2021/sessions/471)
 - [2021, 대규모 자연어처리 모델 서빙 경험기](https://deview.kr/2021/sessions/439)
-- [2020, 손쉽게 ML 라이프사이클을 다룰 수 있는 MLOps](https://deview.kr/2020/sessions/3930)
+- [2020, 손쉽게 ML 라이프사이클을 다룰 수 있는 MLOps](https://deview.kr/2020/sessions/393)
 
 ## 그외
 - [모두의 MLOps](https://mlops-for-all.github.io/) <-강추
