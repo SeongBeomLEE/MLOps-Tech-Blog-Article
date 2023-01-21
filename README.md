@@ -15,5 +15,6 @@
 - [2020, 손쉽게 ML 라이프사이클을 다룰 수 있는 MLOps](https://deview.kr/2020/sessions/393)
 
 ## 그외
+- [ML Engineer를 위한 MLOps](https://mlops-for-mle.github.io/tutorial/) <-강추
 - [모두의 MLOps](https://mlops-for-all.github.io/) <-강추
 - [머신러닝 시스템 디자인 패턴](https://mercari.github.io/ml-system-design-pattern/README_ko.html)
